@@ -1,7 +1,7 @@
 # English School API
 This application controls an English school
 
-# Entry Points
+# End Points
 
 ## People
 
